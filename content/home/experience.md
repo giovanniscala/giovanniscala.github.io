@@ -22,15 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Post-Doc
+    company: University of Gdańsk
+    company_url: 'https://ictqt.ug.edu.pl/pages/quantum-cybersecurity-and-communication/'
+    location: Warsaw, (Poland)
+    date_start: '2022-04-01'
+    date_end: '2024-03-31'
+    description:  Quantum hacking and fundamental law of Nature in the group of Quantum Cybersecurity and Communication group led by prof. M.  Pawłowski. 
+    
+  - title: Post-Doc
+    company: University of Warsaw
+    company_url: 'https://www.fizyka.pw.edu.pl/index.php/en'
+    location: Warsaw, (Poland)
+    date_start: '2021-08-01'
+    date_end: '2022-03-31'
+    description: I worked on quantum metrological advantages studying the weak values amplification and cost of postselection in bayesian gambling theory for the Quantum Information Group led by prof. R. Demkowicz-Dobrzanski.
+    
   - title: Independent Researcher
     company: The International Centre for Theory of Quantum Technologies  - (ICTQT) 
     company_url: 'https://ictqt.ug.edu.pl/'
     location: Gdańsk, (Poland)
     date_start: '2021-01-01'
     date_end: '2021-06-30'
-    description: I am working on the generalization of CHSH scenario and on contextuality advantages in collaboration with the group of Multiphoton Quantum Optics for Quantum Information Group led by prof. M. Żukowski and the group of Foundational Underpinnings of Quantum Technologies Group led by prof. A. B. Sainz
+    description: I worked on the generalization of CHSH scenario and on contextuality advantages in collaboration with the group of Multiphoton Quantum Optics for Quantum Information Group led by prof. M. Żukowski and the group of Foundational Underpinnings of Quantum Technologies Group led by prof. A. B. Sainz
     #https://ictqt.ug.edu.pl/research/mqoqi-group/    
-    #https://ictqt.ug.edu.pl/research/fuqt-group/
+    #https://ictqt.ug.edu.pl/research/fuqt-group/  
 
   - title: PhD Student
     company: University of Bari
