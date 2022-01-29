@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- #certificate_url: http://prom-umk.pl/
+- certificate_url: http://prom-umk.pl/
   date_end: "2020-02-18"
   date_start: "2020-01-18"
   description: "I won this intership which has strenghtened my collaboration with the Mathematical
@@ -33,21 +33,23 @@ Physics group and with the Quantum Optics group in Toruń."
   title: PROM project
   url: "http://prom-umk.pl/"
 
-# - #certificate_url: https://www.edx.org
+# - certificate_url: ''
 #   date_end: "2018-08-03"
-#   date_start: "2018-09-04"
+-  date_start: "2018-09-04"
 #   description: I won this intership to attend the project Light interactions to asymmetric quantum systems
-#   organization: The Faculty of Physics, Astronomy and Informatics of the Nicolaus Copernicus University in Toruń
+   organization: The Faculty of Physics, Astronomy and Informatics of the Nicolaus Copernicus University in Toruń
 #   organization_url: https://www.fizyka.umk.pl/
-#   title: TAPS (The Torun Astrophysics / Physics Summer Program),
+   title: TAPS (The Torun Astrophysics / Physics Summer Program),
 #   url: "http://www.home.umk.pl/~astro_conf/taps/taps2019/index.html"
-# - certificate_url: https://www.coursera.org
+
+
+# - certificate_url: '../media/Giovanni_Scala_2021-distinguished_referee_diploma_EPJP.pdf'
 #   date_end: ""
-#   date_start: "2021-01-25"
-#   description: ""
-#   organization: Coursera
-#   organization_url: https://www.coursera.org
-#   title: Neural Networks and Deep Learning
+#   date_start: "2021"
+#   description: "The European Physics Journal Plus expresses its thanks to Giovanni Scala as a Distinguished Referee in 2021"
+#   organization: EPJP
+#   organization_url: https://www.springer.com/journal/13360
+#   title: Distinguished Referee in 2021
 #   url: ""
 # - certificate_url: https://www.edx.org
 #   date_end: ""

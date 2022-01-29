@@ -25,10 +25,10 @@ experience:
   - title: Post-Doc
     company: University of Gdańsk
     company_url: 'https://ictqt.ug.edu.pl/pages/quantum-cybersecurity-and-communication/'
-    location: Warsaw, (Poland)
+    location: Gdańsk, (Poland)
     date_start: '2022-04-01'
     date_end: '2024-03-31'
-    description:  Quantum hacking and fundamental law of Nature in the group of Quantum Cybersecurity and Communication group led by prof. M.  Pawłowski. 
+    description:  Quantum hacking and fundamental law of Nature in the Quantum Cybersecurity and Communication group led by prof. M.  Pawłowski. 
     
   - title: Post-Doc
     company: University of Warsaw
@@ -62,7 +62,7 @@ experience:
     location: Toruń, (Poland)
     date_start: '2018-10-01'
     date_end: '2019-06-30'
-    description: 'Research area: Entanglement witnesses and positive map; cavity QED'
+    description: 'Entanglement witnesses and positive map in the group led by D. Chruściński and G. Sarbicki ; cavity QED in the group led by K. Słowik.'
   
   - title: Internship at INFN Sez. Bari
     company: Istituto Nazionale di Fisica Nucleare
