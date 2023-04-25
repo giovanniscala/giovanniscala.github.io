@@ -12,28 +12,49 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>./publication-type/2/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>./tag/bell-inequalities/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>./tag/chsh/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tag/nonlocality/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+    <loc>./tag/chsh-bell-inequality/</loc>
+    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>./tag/fidelity/</loc>
+    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>./publication/2023/04_01_2023_entropy/</loc>
+    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>./publication_types/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>./publication/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>./tag/random-matrix/</loc>
+    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>./publication/2023/02_02_2023_ijqi/</loc>
+    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>./tags/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./publication/2023/04_01_2023_ijqi/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+    <loc>./publication/2022/31_06_2022_epjp/</loc>
+    <lastmod>2022-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>./tag/correlation-plenoptic-imaging/</loc>
+    <lastmod>2022-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>./tag/light-field-microscopy/</loc>
+    <lastmod>2022-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>./tag/second-order-interferometric-schemes/</loc>
+    <lastmod>2022-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>./tag/probability/</loc>
     <lastmod>2022-10-02T15:59:00+00:00</lastmod>
@@ -53,7 +74,7 @@
     <loc>./tag/uncertainty-relations/</loc>
     <lastmod>2022-09-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./doi.org/10.1103/PhysRevLett.129.240401</loc>
+    <loc>./publication/2022/09_12_2022_prl/</loc>
     <lastmod>2022-07-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>./publication/2022/01_06_2022_epjp/</loc>
@@ -94,9 +115,6 @@
   </url><url>
     <loc>./post/</loc>
     <lastmod>2021-08-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>./publication/2022/31_06_2022_arx/</loc>
-    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>./publication/2021/04_30_2021_pra/</loc>
     <lastmod>2021-07-27T00:00:00+00:00</lastmod>

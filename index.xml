@@ -33,10 +33,56 @@
     </item>
     
     <item>
-      <title>What is nonclassical about uncertainty relations?</title>
-      <link>./publication/2023/04_01_2023_ijqi/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>./publication/2023/04_01_2023_ijqi/</guid>
+      <title>On the Fidelity Robustness of CHSH–Bell Inequality via Filtered Random States</title>
+      <link>./publication/2023/04_01_2023_entropy/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>./publication/2023/04_01_2023_entropy/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Revisited aspects of the local set in CHSH Bell scenario</title>
+      <link>./publication/2023/02_02_2023_ijqi/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>./publication/2023/02_02_2023_ijqi/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comparative analysis of signal-to-noise ratio in correlation plenoptic imaging architectures</title>
+      <link>./publication/2022/31_06_2022_epjp/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>./publication/2022/31_06_2022_epjp/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -90,9 +136,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>What is nonclassical about uncertainty relations?</title>
-      <link>./doi.org/10.1103/PhysRevLett.129.240401</link>
+      <link>./publication/2022/09_12_2022_prl/</link>
       <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>./doi.org/10.1103/PhysRevLett.129.240401</guid>
+      <guid>./publication/2022/09_12_2022_prl/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -253,29 +299,6 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
  --&gt;
 &lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;http://www.astronomynotes.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASTRO 801: Planets, Stars, Galaxies, and the Universe&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Comparative analysis of signal-to-noise ratio in correlation plenoptic imaging architectures</title>
-      <link>./publication/2022/31_06_2022_arx/</link>
-      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>./publication/2022/31_06_2022_arx/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
