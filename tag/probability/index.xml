@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Probability | GioSca website</title>
+    <link>./tag/probability/</link>
+      <atom:link href="./tag/probability/index.xml" rel="self" type="application/rss+xml" />
+    <description>Probability</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Oct 2022 15:59:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hub9af10373a867da90b39ee3f3796e0ee_26097_512x512_fill_lanczos_center_3.png</url>
+      <title>Probability</title>
+      <link>./tag/probability/</link>
+    </image>
+    
+    <item>
+      <title>Course contents</title>
+      <link>./teaching/probabilitystatistics/syllabus/</link>
+      <pubDate>Sun, 02 Oct 2022 15:59:00 +0000</pubDate>
+      <guid>./teaching/probabilitystatistics/syllabus/</guid>
+      <description>&lt;h2 id=&#34;probability-and-statistics&#34;&gt;Probability and Statistics&lt;/h2&gt;
+&lt;p&gt;The course contents includes presentation of the following concepts (lecture and exercises will be devoted to the same topics):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;part-i&#34;&gt;Part I&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to the Probability spaces: samples, events, probability, conditional probability, independent events.&lt;/li&gt;
+&lt;li&gt;Distributions: Distributions on $\mathbb{N}$, Finite and Countable Spaces, Bernoulli Trials, Distributions on $\mathbb{R}$, Cumulative Distribution Functions, Discrete Distributions,       Absolutely Continuous Distributions, Singular Distributions, Mixtures, Distributions on $\mathbb{R}^n$, Multivariate Distribution Functions, Multivariate Densities, Marginal Distributions, Copulas, Distributions on $\mathbb{R}^\infty$ and $\mathbb{R}^T$.&lt;/li&gt;
+&lt;li&gt;Random Variables: Measurability, Laws and Distributions, Generating New rv’s, Random Vectors and Stochastic Processes, Random Elements, Joint and Marginal Distributions and Densities, Independence of rv’s, Decomposition of Binomial rv’s, Expectation, Integration and Expectation, Change of Variables, Variance and Covariance, Conditioning, Conditional Distributions, Conditional Expectation, Optimal Mean Square Estimation, Combinations of rv’s, Functions of rv’s, Sums of Independent rv’s.&lt;/li&gt;
+&lt;li&gt;Limit Theorems: Convergence, Characteristic Functions, Definition and Properties, Gaussian Laws, Composition and Decomposition of Laws, Laws of Large Numbers, Gaussian Theorems, Poisson Theorems, Where the Classical Limit Theorems Fail.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;part-ii&#34;&gt;Part II&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;General Notions: Identification and Distribution, Expectations and Correlations, Convergence and Continuity, Differentiation and Integration in ms, Stationarity and Ergodicity, Power Spectrum.&lt;/li&gt;
+&lt;li&gt;Heuristic Definitions: Poisson Process, Point Processes and Renewals, Poisson Process  Compensated, Poisson Process Compound, Poisson Process Shot Noise, Wiener Process, Random Walk,  Wiener Process,  Geometric Wiener Process, White Noise, Brownian Motion (Einstein, Langevin).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;part-iii&#34;&gt;Part III&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Probability models in quantum information: outline of the axioms of Quantum Mechanics, the problem of joint probability measure in Quantum Theory, Bell theorem, Fine theorem, correlation boxes.&lt;/li&gt;
+&lt;li&gt;Statistical analysis on the probability measurement based on the qubit from IBM quantum experiments.&lt;/li&gt;
+&lt;li&gt;Probabilistic models solved by Semidefinite Programming and Cellular Automata.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;N. Cufaro Petroni, Probability and Stochastic Processes for Physicists, UNITEXT for Physics, 978-3-030-48407-1, Springer, 2020&lt;/li&gt;
+&lt;li&gt;P. Billingsley, Probability and measure&lt;/li&gt;
+&lt;li&gt;O. Bratteli, D Robinson, Operator algebras and statistical mechjanics vol. I, II&lt;/li&gt;
+&lt;li&gt;Material provided by the lecturer.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nonlocality | GioSca website</title>
+    <link>./tag/nonlocality/</link>
+      <atom:link href="./tag/nonlocality/index.xml" rel="self" type="application/rss+xml" />
+    <description>nonlocality</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hub9af10373a867da90b39ee3f3796e0ee_26097_512x512_fill_lanczos_center_3.png</url>
+      <title>nonlocality</title>
+      <link>./tag/nonlocality/</link>
+    </image>
+    
+    <item>
+      <title>Revisited aspects of the local set in CHSH Bell scenario</title>
+      <link>./publication/2023/04_01_2023_ijqi/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>./publication/2023/04_01_2023_ijqi/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
