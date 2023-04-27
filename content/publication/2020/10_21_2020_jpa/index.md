@@ -38,7 +38,7 @@ abstract: It is shown that the enhanced (nonlinear) realignment criterion is equ
 tags: [entanglement witnesses, XY-criterion]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

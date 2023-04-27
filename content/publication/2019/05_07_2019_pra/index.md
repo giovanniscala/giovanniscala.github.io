@@ -28,7 +28,7 @@ abstract: "Correlation plenoptic imaging (CPI) is an imaging technique that expl
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: [Correlation Plenoptics Imaging, Quantum Imaging, Ghost Imaging]
-featured: true
+featured: false
 
 links:
 - name: Presentation

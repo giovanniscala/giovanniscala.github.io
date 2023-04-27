@@ -10,20 +10,21 @@ role: Post-Doc
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Faculty of Physics - University of Warsaw
-  url: https://www.fuw.edu.pl/
+- name: ICTQT - University of Gdansk
+  url: https://ictqt.ug.edu.pl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include general probabilistic theory, contextuality nonlocality, entanglement theory and quantum optics.
+bio: My research interests include quantum foundations, quantum informaion, optics and communications.
 
 # Interests to show in About widget
 interests:
+- Light-Matter QED
+- Quantum Optics
+- Machine Learning
+- Quantum Metrology
+- Entanglement Theory
 - Quantum foundations
 - Mathematical Physics
-- Bell's inequalities
-- Entanglement Theory
-- Quantum Optics
-- Quantum metrology
 
 # Education to show in About widget
 education:
@@ -85,6 +86,6 @@ email: "giovanni.scala@ug.edu.pl"
 highlight_name: true
 ---
 
-Independent researcher in quantum information and quantum optics, currently involved in fundamental problems of Physics. I am seeking no-go theorems for noncontextual ontological models, but I am also pursuing the derivation of new Bell’s inequalities as well as interested in Entanglement Theory and metrology. I also studied light-matter interaction in QED and second-order interferometry methods. 
+Post-Doc in quantum information and quantum optics, currently developing genetic and machine learning algorithms for the optimization problems. Interested in the foundations of quantum theory such as Entanglement Theory, Bell's inequalities, and classical explainable models. I also studied metrology, quantum communication games, light-matter interaction in QED and second-order interferometry methods. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "././uploads/resume_Giovanni_Scala.pdf" "download" >}}research resumé{{< /staticref >}}.

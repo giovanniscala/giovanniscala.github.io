@@ -1,5 +1,7 @@
 ---
 title: Publications
+date: 2023-04-26
+type: widget-page
 cms_exclude: true
 
 # View.

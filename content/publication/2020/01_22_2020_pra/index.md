@@ -45,12 +45,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2001.08258'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: '2020_pra_poster.pdf'
 url_project: ''
-url_slides: ''
+url_slides: '2020_pra_slides.pdf'
 url_source: ''
 url_video: ''
 

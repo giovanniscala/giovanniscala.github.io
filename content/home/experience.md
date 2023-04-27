@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Academic Teacher
+    company: University of Gdańsk
+    company_url: 'https://en.ug.edu.pl/'
+    location: Gdańsk, (Poland)
+    date_start: '2022-10-01'
+    date_end: '2023-04-05'
+    description:  Probability and statistics at the field of study Quantum Information Technology at the Faculty of Mathematics, Physics and Informatics, University of Gdańsk.
+    
   - title: Post-Doc
     company: University of Gdańsk
     company_url: 'https://ictqt.ug.edu.pl/pages/quantum-cybersecurity-and-communication/'

@@ -43,14 +43,15 @@ Physics group and with the Quantum Optics group in Toruń."
 #   url: "http://www.home.umk.pl/~astro_conf/taps/taps2019/index.html"
 
 
-# - certificate_url: '../media/Giovanni_Scala_2021-distinguished_referee_diploma_EPJP.pdf'
+# - certificate_url: '...media/Giovanni_Scala_2021-distinguished_referee_diploma_EPJP.pdf'
 #   date_end: ""
-#   date_start: "2021"
+##   date_start: "2021"
 #   description: "The European Physics Journal Plus expresses its thanks to Giovanni Scala as a Distinguished Referee in 2021"
 #   organization: EPJP
 #   organization_url: https://www.springer.com/journal/13360
 #   title: Distinguished Referee in 2021
 #   url: ""
+
 # - certificate_url: https://www.edx.org
 #   date_end: ""
 #   date_start: "2021-01-01"
