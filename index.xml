@@ -7,7 +7,7 @@
     <description>GioSca website</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hub9af10373a867da90b39ee3f3796e0ee_26097_512x512_fill_lanczos_center_3.png</url>
+      <url>./media/icon_hu_e842b6753fc3b031.png</url>
       <title>GioSca website</title>
       <link>./</link>
     </image>
@@ -297,7 +297,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <pubDate>Wed, 24 Nov 2021 15:59:00 +0000</pubDate>
       <guid>./project/entanglement_theory/</guid>
       <description>&lt;p&gt;Entanglement Theory&lt;/p&gt;
-&lt;p&gt;The ultimate goal of this project is to declare if a given quantum state, namely a density matrix in a finite Hilbert space, is separable or entangled. Beside the intrinsic physical worth, this problem is an exciting direction of research where geometry unveil where there is entanglement. I am particular fascinating to explore how the set of the quantum states is organized and  which are the technique to detect entanglement. 
+&lt;p&gt;The ultimate goal of this project is to declare if a given quantum state, namely a density matrix in a finite Hilbert space, is separable or entangled. Beside the intrinsic physical worth, this problem is an exciting direction of research where geometry unveil where there is entanglement. I am particular fascinating to explore how the set of the quantum states is organized and  which are the technique to detect entanglement.
 In the case of pure states, via Schmidt decomposition or equivalently with singular value decomposition we can answer to the problem. We know also that for the Hilbert space of qubit-qubit and qubit-qutrit the answer via the partial transposition. But, with tripartite qubit or bipartite qutrit, we have no a general answer which solve the problem. Futhermore, for higher dimension, the problem turns out to be NP hard.&lt;/p&gt;
 &lt;p&gt;Light-Matter interaction&lt;/p&gt;
 &lt;p&gt;We want to grasp the idea of light and matter. In particular, can we better understand the role of the
@@ -312,7 +312,7 @@ quantum fluctuations of the vacuum in quantum theory which carries on the sponta
       <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
       <guid>./post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;There is an old, simple question that can help us to understand a fundamental property of the universe. The question is usually called Olbers&#39; Paradox, (after German astronomer Heinrich W. Olbers), and it can be stated pretty simply:&lt;/p&gt;
+&lt;p&gt;There is an old, simple question that can help us to understand a fundamental property of the universe. The question is usually called Olbers&amp;rsquo; Paradox, (after German astronomer Heinrich W. Olbers), and it can be stated pretty simply:&lt;/p&gt;
 &lt;p&gt;Why is the night sky dark?&lt;/p&gt;
 &lt;!-- 
 
@@ -675,6 +675,853 @@ $$&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>./admin/config.yml</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>./publication_types/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>./publication_types/</guid>
+      <description>&lt;!DOCTYPE html&gt;&lt;html lang=&#34;en-us&#34; &gt;
+
+&lt;head&gt;
+  &lt;meta charset=&#34;utf-8&#34; /&gt;
+  &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34; /&gt;
+  &lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=edge&#34; /&gt;
+  
+  
+  
+    &lt;meta name=&#34;generator&#34; content=&#34;Wowchemy 5.2.0 for Hugo&#34; /&gt;
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  &lt;meta name=&#34;author&#34; content=&#34;Giovanni Scala&#34; /&gt;
+
+  
+  
+  
+    
+  
+  &lt;meta name=&#34;description&#34; content=&#34;Post-Doc&#34; /&gt;
+
+  
+  &lt;link rel=&#34;alternate&#34; hreflang=&#34;en-us&#34; href=&#34;./publication_types/&#34; /&gt;
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    &lt;link rel=&#34;preconnect&#34; href=&#34;https://fonts.gstatic.com&#34; crossorigin /&gt;
+  
+
+  
+  
+  
+    &lt;meta name=&#34;theme-color&#34; content=&#34;rgb(0, 136, 204)&#34; /&gt;
+  
+
+  
+  
+    
+    &lt;script src=&#34;./js/mathjax-config.js&#34;&gt;&lt;/script&gt;
+  
+
+  
+  
+  
+  
+    
+    
+      &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css&#34; integrity=&#34;sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==&#34; crossorigin=&#34;anonymous&#34;&gt;
+    
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css&#34; integrity=&#34;sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=&#34; crossorigin=&#34;anonymous&#34;&gt;
+
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css&#34; crossorigin=&#34;anonymous&#34; title=&#34;hl-light&#34; media=&#34;print&#34; onload=&#34;this.media=&#39;all&#39;&#34; disabled&gt;
+          &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css&#34; crossorigin=&#34;anonymous&#34; title=&#34;hl-dark&#34; media=&#34;print&#34; onload=&#34;this.media=&#39;all&#39;&#34;&gt;
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        &lt;script src=&#34;https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js&#34; integrity=&#34;&#34; crossorigin=&#34;anonymous&#34; async&gt;&lt;/script&gt;
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      
+      &lt;link rel=&#34;stylesheet&#34; href=&#34;https://fonts.googleapis.com/css?family=B612+Mono:400,700%7COrbitron:400,700&amp;display=swap&#34;&gt;
+      
+    
+  
+
+  
+  
+  
+  
+  
+  &lt;link rel=&#34;stylesheet&#34; href=&#34;./css/wowchemy.17658defbe10ead40480aeacca8f9477.css&#34; /&gt;
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+    &lt;link rel=&#34;alternate&#34; href=&#34;./publication_types/index.xml&#34; type=&#34;application/rss+xml&#34; title=&#34;GioSca website&#34; /&gt;
+  
+
+  
+    &lt;link rel=&#34;manifest&#34; href=&#34;./index.webmanifest&#34; /&gt;
+  
+
+  &lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; href=&#34;./media/icon_hub9af10373a867da90b39ee3f3796e0ee_26097_32x32_fill_lanczos_center_2.png&#34; /&gt;
+  &lt;link rel=&#34;apple-touch-icon&#34; type=&#34;image/png&#34; href=&#34;./media/icon_hub9af10373a867da90b39ee3f3796e0ee_26097_180x180_fill_lanczos_center_2.png&#34; /&gt;
+
+  &lt;link rel=&#34;canonical&#34; href=&#34;./publication_types/&#34; /&gt;
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  &lt;meta property=&#34;twitter:card&#34; content=&#34;summary&#34; /&gt;
+  
+  &lt;meta property=&#34;og:site_name&#34; content=&#34;GioSca website&#34; /&gt;
+  &lt;meta property=&#34;og:url&#34; content=&#34;./publication_types/&#34; /&gt;
+  &lt;meta property=&#34;og:title&#34; content=&#34;Publication_types | GioSca website&#34; /&gt;
+  &lt;meta property=&#34;og:description&#34; content=&#34;Post-Doc&#34; /&gt;&lt;meta property=&#34;og:image&#34; content=&#34;/media/icon_hub9af10373a867da90b39ee3f3796e0ee_26097_512x512_fill_lanczos_center_2.png&#34; /&gt;
+    &lt;meta property=&#34;twitter:image&#34; content=&#34;/media/icon_hub9af10373a867da90b39ee3f3796e0ee_26097_512x512_fill_lanczos_center_2.png&#34; /&gt;&lt;meta property=&#34;og:locale&#34; content=&#34;en-us&#34; /&gt;
+  
+    
+  
+
+  
+
+
+
+  
+
+  
+
+
+
+
+
+  &lt;title&gt;Publication_types | GioSca website&lt;/title&gt;
+&lt;/head&gt;
+
+
+&lt;body id=&#34;top&#34; data-spy=&#34;scroll&#34; data-offset=&#34;70&#34; data-target=&#34;#TableOfContents&#34; class=&#34;page-wrapper  dark &#34;  &gt;
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  &lt;script src=&#34;./js/wowchemy-init.min.afb024698bed5f6611e02ca728372e06.js&#34;&gt;&lt;/script&gt;
+
+  
+
+
+&lt;aside class=&#34;search-modal&#34; id=&#34;search&#34;&gt;
+  &lt;div class=&#34;container&#34;&gt;
+    &lt;section class=&#34;search-header&#34;&gt;
+
+      &lt;div class=&#34;row no-gutters justify-content-between mb-3&#34;&gt;
+        &lt;div class=&#34;col-6&#34;&gt;
+          &lt;h1&gt;Search&lt;/h1&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-6 col-search-close&#34;&gt;
+          &lt;a class=&#34;js-search&#34; href=&#34;#&#34; aria-label=&#34;Close&#34;&gt;&lt;i class=&#34;fas fa-times-circle text-muted&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      &lt;div id=&#34;search-box&#34;&gt;
+        
+        &lt;input name=&#34;q&#34; id=&#34;search-query&#34; placeholder=&#34;Search...&#34; autocapitalize=&#34;off&#34;
+        autocomplete=&#34;off&#34; autocorrect=&#34;off&#34; spellcheck=&#34;false&#34; type=&#34;search&#34; class=&#34;form-control&#34;
+        aria-label=&#34;Search...&#34;&gt;
+        
+      &lt;/div&gt;
+
+      
+      
+
+      
+
+    &lt;/section&gt;
+    &lt;section class=&#34;section-search-results&#34;&gt;
+
+      &lt;div id=&#34;search-hits&#34;&gt;
+        
+      &lt;/div&gt;
+
+    &lt;/section&gt;
+  &lt;/div&gt;
+&lt;/aside&gt;
+
+
+
+  &lt;div class=&#34;page-header&#34;&gt;
+    
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;nav class=&#34;navbar navbar-expand-lg navbar-light compensate-for-scrollbar&#34; id=&#34;navbar-main&#34;&gt;
+  &lt;div class=&#34;container-xl&#34;&gt;
+
+    
+    &lt;div class=&#34;d-none d-lg-inline-flex&#34;&gt;
+      &lt;a class=&#34;navbar-brand&#34; href=&#34;./&#34;&gt;GioSca website&lt;/a&gt;
+    &lt;/div&gt;
+    
+
+    
+    &lt;button type=&#34;button&#34; class=&#34;navbar-toggler&#34; data-toggle=&#34;collapse&#34;
+            data-target=&#34;#navbar-content&#34; aria-controls=&#34;navbar-content&#34; aria-expanded=&#34;false&#34; aria-label=&#34;Toggle navigation&#34;&gt;
+    &lt;span&gt;&lt;i class=&#34;fas fa-bars&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+    &lt;/button&gt;
+    
+
+    
+    &lt;div class=&#34;navbar-brand-mobile-wrapper d-inline-flex d-lg-none&#34;&gt;
+      &lt;a class=&#34;navbar-brand&#34; href=&#34;./&#34;&gt;GioSca website&lt;/a&gt;
+    &lt;/div&gt;
+    
+
+    
+    
+    &lt;div class=&#34;navbar-collapse main-menu-item collapse justify-content-start&#34; id=&#34;navbar-content&#34;&gt;
+
+      
+      &lt;ul class=&#34;navbar-nav d-md-inline-flex&#34;&gt;
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        &lt;li class=&#34;nav-item&#34;&gt;
+          &lt;a class=&#34;nav-link &#34; href=&#34;./#about&#34;&gt;&lt;span&gt;Home&lt;/span&gt;&lt;/a&gt;
+        &lt;/li&gt;
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        &lt;li class=&#34;nav-item&#34;&gt;
+          &lt;a class=&#34;nav-link &#34; href=&#34;./#featured&#34;&gt;&lt;span&gt;Publications&lt;/span&gt;&lt;/a&gt;
+        &lt;/li&gt;
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        &lt;li class=&#34;nav-item&#34;&gt;
+          &lt;a class=&#34;nav-link &#34; href=&#34;./#experience&#34;&gt;&lt;span&gt;Experience&lt;/span&gt;&lt;/a&gt;
+        &lt;/li&gt;
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        &lt;li class=&#34;nav-item&#34;&gt;
+          &lt;a class=&#34;nav-link &#34; href=&#34;./#contact&#34;&gt;&lt;span&gt;Contact&lt;/span&gt;&lt;/a&gt;
+        &lt;/li&gt;
+
+        
+        
+
+      
+
+        
+      &lt;/ul&gt;
+    &lt;/div&gt;
+
+    &lt;ul class=&#34;nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2&#34;&gt;
+
+      
+      
+        
+      
+
+      
+      
+      &lt;li class=&#34;nav-item&#34;&gt;
+        &lt;a class=&#34;nav-link js-search&#34; href=&#34;#&#34; aria-label=&#34;Search&#34;&gt;&lt;i class=&#34;fas fa-search&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/li&gt;
+      
+
+      
+      
+      &lt;li class=&#34;nav-item dropdown theme-dropdown&#34;&gt;
+        &lt;a href=&#34;#&#34; class=&#34;nav-link&#34; data-toggle=&#34;dropdown&#34; aria-haspopup=&#34;true&#34; aria-label=&#34;Display preferences&#34;&gt;
+          &lt;i class=&#34;fas fa-moon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+        &lt;/a&gt;
+        &lt;div class=&#34;dropdown-menu&#34;&gt;
+          &lt;a href=&#34;#&#34; class=&#34;dropdown-item js-set-theme-light&#34;&gt;
+            &lt;span&gt;Light&lt;/span&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;#&#34; class=&#34;dropdown-item js-set-theme-dark&#34;&gt;
+            &lt;span&gt;Dark&lt;/span&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;#&#34; class=&#34;dropdown-item js-set-theme-auto&#34;&gt;
+            &lt;span&gt;Automatic&lt;/span&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+      
+
+      
+      
+
+    &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/nav&gt;
+
+
+  &lt;/div&gt;
+
+  &lt;div class=&#34;page-body&#34;&gt;
+    
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+&lt;div class=&#34;universal-wrapper pt-3&#34;&gt;
+  &lt;h1&gt;Publication_types&lt;/h1&gt;
+
+  
+
+  
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;universal-wrapper&#34;&gt;
+  
+
+  
+  
+
+  
+
+&lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;page-footer&#34;&gt;
+    
+    
+    &lt;div class=&#34;container&#34;&gt;
+      &lt;footer class=&#34;site-footer&#34;&gt;
+
+  
+
+  
+  &lt;p class=&#34;powered-by&#34;&gt;
+    
+      &lt;a href=&#34;./privacy/&#34;&gt;Privacy Policy&lt;/a&gt;
+    
+    
+       &amp;middot; 
+      &lt;a href=&#34;./terms/&#34;&gt;Terms&lt;/a&gt;
+    
+  &lt;/p&gt;
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  &lt;p class=&#34;powered-by&#34;&gt;
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with &lt;a href=&#34;https://wowchemy.com/?utm_campaign=poweredby&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; — the free, &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open source&lt;/a&gt; website builder that empowers creators.
+    
+  &lt;/p&gt;
+&lt;/footer&gt;
+
+    &lt;/div&gt;
+    
+  &lt;/div&gt;
+
+  
+&lt;div id=&#34;modal&#34; class=&#34;modal fade&#34; role=&#34;dialog&#34;&gt;
+  &lt;div class=&#34;modal-dialog&#34;&gt;
+    &lt;div class=&#34;modal-content&#34;&gt;
+      &lt;div class=&#34;modal-header&#34;&gt;
+        &lt;h5 class=&#34;modal-title&#34;&gt;Cite&lt;/h5&gt;
+        &lt;button type=&#34;button&#34; class=&#34;close&#34; data-dismiss=&#34;modal&#34; aria-label=&#34;Close&#34;&gt;
+          &lt;span aria-hidden=&#34;true&#34;&gt;&amp;times;&lt;/span&gt;
+        &lt;/button&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;modal-body&#34;&gt;
+        &lt;pre&gt;&lt;code class=&#34;tex hljs&#34;&gt;&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;modal-footer&#34;&gt;
+        &lt;a class=&#34;btn btn-outline-primary my-1 js-copy-cite&#34; href=&#34;#&#34; target=&#34;_blank&#34;&gt;
+          &lt;i class=&#34;fas fa-copy&#34;&gt;&lt;/i&gt; Copy
+        &lt;/a&gt;
+        &lt;a class=&#34;btn btn-outline-primary my-1 js-download-cite&#34; href=&#34;#&#34; target=&#34;_blank&#34;&gt;
+          &lt;i class=&#34;fas fa-download&#34;&gt;&lt;/i&gt; Download
+        &lt;/a&gt;
+        &lt;div id=&#34;modal-error&#34;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+      
+
+    
+    
+    
+      &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js&#34; integrity=&#34;sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+      &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js&#34; integrity=&#34;sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+
+      
+      
+        &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js&#34; integrity=&#34;sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+        &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js&#34; integrity=&#34;sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+      
+
+      
+      
+
+      
+
+      
+        
+        &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js&#34; integrity=&#34;sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+        
+        &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js&#34;&gt;&lt;/script&gt;
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      &lt;script id=&#34;search-hit-fuse-template&#34; type=&#34;text/x-template&#34;&gt;
+        &lt;div class=&#34;search-hit&#34; id=&#34;summary-{{key}}&#34;&gt;
+          &lt;div class=&#34;search-hit-content&#34;&gt;
+            &lt;div class=&#34;search-hit-name&#34;&gt;
+              &lt;a href=&#34;{{relpermalink}}&#34;&gt;{{title}}&lt;/a&gt;
+              &lt;div class=&#34;article-metadata search-hit-type&#34;&gt;{{type}}&lt;/div&gt;
+              &lt;p class=&#34;search-hit-description&#34;&gt;{{snippet}}&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/script&gt;
+      
+        &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js&#34; integrity=&#34;sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+        &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js&#34; integrity=&#34;sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    &lt;script src=&#34;./js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js&#34;&gt;&lt;/script&gt;
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    &lt;script src=&#34;./en/js/wowchemy.min.4bba0826db6409c865d2e7b99039d6d0.js&#34;&gt;&lt;/script&gt;
+
+    
+
+
+
+
+
+
+&lt;/body&gt;
+&lt;/html&gt;
+</description>
     </item>
     
   </channel>

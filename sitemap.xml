@@ -35,9 +35,6 @@
     <loc>./tag/optimal-entanglement-witnesses/</loc>
     <lastmod>2023-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./publication_types/</loc>
-    <lastmod>2023-04-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>./tags/</loc>
     <lastmod>2023-04-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -189,6 +186,8 @@
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>./admin/</loc>
+  </url><url>
+    <loc>./publication_types/</loc>
   </url><url>
     <loc>./categories/</loc>
   </url>
