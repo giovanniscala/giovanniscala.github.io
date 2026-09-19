@@ -1,0 +1,54 @@
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches: [website-source]
+    paths:
+      - '.github/workflows/deploy-pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: deploy-github-pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: '1.17.13'
+          cache: false
+
+      - uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.83.1'
+          extended: true
+
+      - name: Regenerate publication catalogue
+        run: python3 scripts/generate_publications.py
+
+      - name: Verify generated publication source is committed
+        run: git diff --exit-code -- content/publication
+
+      - name: Build production site
+        run: hugo --gc --minify --destination public --baseURL https://giovanniscala.github.io/
+
+      - name: Validate production site
+        run: python3 scripts/validate_site.py public
+
+      - name: Publish production branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: master
+          publish_dir: ./public
+          keep_files: false
+          user_name: github-actions[bot]
+          user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit_message: Publish validated website from ${{ github.sha }}
