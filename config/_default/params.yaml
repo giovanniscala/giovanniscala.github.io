@@ -5,30 +5,30 @@
 
 # Appearance
 
-theme: Mr Robot #minimal, apogee, coffee
+theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
 site_type: Person
 local_business_type: ''
-org_name: ''
-description: ''
-twitter: ''
+org_name: 'Nicolaus Copernicus University in Toruń'
+description: 'Giovanni Scala is a theoretical physicist working on quantum information, secure quantum communication, entanglement, Bell nonlocality, randomized measurements, and quantum optics.'
+twitter: 'GioSca16'
 
 # Contact (edit or remove options as required)
 
-email: giovanni.scala@ug.edu.pl
+email: giovanni.scala@poliba.it
 #phone: 888 888 88 88
 address:
-  street: Jana Bażyńskiego 1A
-  city: Gdańsk
-  #region: PL
-  postcode: '80-309'
-  country: Poland
-  country_code: PL
+  street: ''
+  city: ''
+  region: ''
+  postcode: ''
+  country: ''
+  country_code: ''
 #coordinates:
 #  latitude: '37.4275'
 #  longitude: '-122.1697'
@@ -61,7 +61,7 @@ main_menu:
   enable: true
   align: l
   show_logo: true
-  show_language: true
+  show_language: false
   show_day_night: true
   show_search: true
   highlight_active_link: true
@@ -111,7 +111,7 @@ avatar:
   gravatar: false
   shape: circle
 publications:
-  date_format: January 2006
+  date_format: '2006'
   citation_style: apa
 projects:
   post_view: 2
@@ -151,7 +151,7 @@ marketing:
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
-  branch: master
+  branch: website-source
   local_backend: false
 icon:
   pack:

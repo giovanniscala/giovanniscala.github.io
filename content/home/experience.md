@@ -1,107 +1,69 @@
 ---
-# An instance of the Experience widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
-
-# This file represents a page section.
+active: true
 headless: true
-
-# Order that this section appears on the page.
-weight: 100
+weight: 60
 
 title: Experience
-subtitle:
-
-# Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
+subtitle: ''
 date_format: Jan 2006
 
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Academic Teacher
-    company: University of Gdańsk
-    company_url: 'https://en.ug.edu.pl/'
-    location: Gdańsk, (Poland)
-    date_start: '2022-10-01'
-    date_end: '2023-04-05'
-    description:  Probability and statistics at the field of study Quantum Information Technology at the Faculty of Mathematics, Physics and Informatics, University of Gdańsk.
-    
-  - title: Post-Doc
-    company: University of Gdańsk
-    company_url: 'https://ictqt.ug.edu.pl/pages/quantum-cybersecurity-and-communication/'
-    location: Gdańsk, (Poland)
-    date_start: '2022-04-01'
-    date_end: '2024-03-31'
-    description:  Quantum hacking and fundamental law of Nature in the Quantum Cybersecurity and Communication group led by prof. M.  Pawłowski. 
-    
-  - title: Post-Doc
-    company: University of Warsaw
-    company_url: 'https://www.fizyka.pw.edu.pl/index.php/en'
-    location: Warsaw, (Poland)
-    date_start: '2021-08-01'
-    date_end: '2022-03-31'
-    description: I worked on quantum metrological advantages studying the weak values amplification and cost of postselection in bayesian gambling theory for the Quantum Information Group led by prof. R. Demkowicz-Dobrzanski.
-    
-  - title: Independent Researcher
-    company: The International Centre for Theory of Quantum Technologies  - (ICTQT) 
+  - title: Incoming Assistant Professor and Principal Investigator
+    company: Nicolaus Copernicus University in Toruń
+    company_url: 'https://www.fizyka.umk.pl/en/'
+    location: Toruń, Poland
+    date_start: '2026-11-01'
+    date_end: ''
+    description: 'Principal Investigator of the NCN SONATA 21 project *Dynamical Resource for Multipartite Quantum Systems* (2025/59/D/ST2/02708; November 2026–October 2029).'
+
+  - title: Assistant Professor
+    company: Politecnico di Bari and INFN, Bari Section
+    company_url: 'https://www.poliba.it/'
+    location: Bari, Italy
+    date_start: '2023-08-01'
+    date_end: '2026-07-31'
+    description: 'Research in quantum communication, metrology, error correction, and error mitigation; undergraduate and postgraduate teaching.'
+
+  - title: Postdoctoral Researcher
+    company: International Centre for Theory of Quantum Technologies, University of Gdańsk
     company_url: 'https://ictqt.ug.edu.pl/'
-    location: Gdańsk, (Poland)
+    location: Gdańsk, Poland
+    date_start: '2022-04-01'
+    date_end: '2023-07-31'
+    description: 'Quantum foundations, Bell nonlocality, cybersecurity, and quantum communication.'
+
+  - title: Postdoctoral Researcher
+    company: University of Warsaw
+    company_url: 'https://www.fuw.edu.pl/'
+    location: Warsaw, Poland
+    date_start: '2021-07-01'
+    date_end: '2022-03-31'
+    description: 'Bayesian quantum metrology in the Quantum Information Group.'
+
+  - title: Independent Researcher
+    company: International Centre for Theory of Quantum Technologies, University of Gdańsk
+    company_url: 'https://ictqt.ug.edu.pl/'
+    location: Gdańsk, Poland
     date_start: '2021-01-01'
     date_end: '2021-06-30'
-    description: I worked on the generalization of CHSH scenario and on contextuality advantages in collaboration with the group of Multiphoton Quantum Optics for Quantum Information Group led by prof. M. Żukowski and the group of Foundational Underpinnings of Quantum Technologies Group led by prof. A. B. Sainz
-    #https://ictqt.ug.edu.pl/research/mqoqi-group/    
-    #https://ictqt.ug.edu.pl/research/fuqt-group/  
+    description: 'Contextuality, Bell inequalities, and quantum foundations.'
 
-  - title: PhD Student
+  - title: PhD Researcher in Theoretical Physics
     company: University of Bari
-    company_url: 'https://phdphysics.cloud.ba.infn.it/'
-    location: Bari, (Italy)
+    company_url: 'https://www.uniba.it/'
+    location: Bari, Italy
     date_start: '2017-11-01'
     date_end: '2020-12-31'
-    description: 'Research area: second order interferometry of thermal and entangled light, Light-matter interaction in cavity system and the development of XY-criterion for separability problem in Entanglement Theory.'
-    
-  - title: Visiting Scholar
-    company: Nicolaus Copernicus University
-    company_url: 'https://www.fizyka.umk.pl/'
-    location: Toruń, (Poland)
-    date_start: '2018-10-01'
-    date_end: '2019-06-30'
-    description: 'Entanglement witnesses and positive map in the group led by D. Chruściński and G. Sarbicki ; cavity QED in the group led by K. Słowik.'
-  
-  - title: Internship at INFN Sez. Bari
-    company: Istituto Nazionale di Fisica Nucleare
-    company_url: 'http://www.ba.infn.it/index.php/it/'
-    location: Bari, (Italy)
+    description: 'Quantum correlations, entanglement theory, light-matter interaction, and correlation plenoptic imaging. PhD awarded in 2021.'
+
+  - title: Quantum Optics Research Intern
+    company: INFN, Bari Section
+    company_url: 'https://www.ba.infn.it/'
+    location: Bari, Italy
     date_start: '2017-02-01'
     date_end: '2017-10-31'
-    description: 'Research area: Correlation Plenoptic Imaging'
-    
-  #- title: CEO
-   # company: GenCoin
-    #company_url: ''
-    #company_logo: org-gc
-    #location: California
-    ##date_start: '2021-01-01'
-    #date_end: ''
-    #description: |2-
-     #   Responsibilities include:
-        
-     #   * Analysing
-     #   * Modelling
-    #    * Deploying
-        
-  # - title: Professor of Semiconductor Physics
-  #   company: University X
-  #   company_url: ''
-  #   company_logo: org-x
-  #   location: California
-  #   date_start: '2016-01-01'
-  #   date_end: '2020-12-31'
-  #   description: Taught electronic engineering and researched semiconductor physics.
+    description: 'Higher-order interferometric methods and correlation plenoptic imaging.'
 
 design:
   columns: '2'

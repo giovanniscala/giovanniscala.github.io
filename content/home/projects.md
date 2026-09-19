@@ -7,10 +7,10 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 30
 
-title: Projects
-subtitle: ''
+title: Research Themes
+subtitle: 'Quantum correlations from foundations to applications.'
 
 content:
   # Page type to display. E.g. project.
@@ -27,14 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: '2'
 
   # Toggle between the various page layout types.
   #   1 = List
