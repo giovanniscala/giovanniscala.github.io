@@ -8,16 +8,16 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 40
 
-title: Featured Publications
-subtitle: ''
+title: Selected Publications
+subtitle: 'A cross-section of recent work in secure communication, entanglement certification, quantum foundations, and noise mitigation.'
 
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how much pages you would like to display (0 = all pages)
-  count: 3
+  count: 5
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
@@ -37,7 +37,7 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   columns: "1"
-  view: 3
+  view: 2
   spacing:
     padding: ["20px", "0", "20px", "0"]
 # cta:
@@ -54,5 +54,5 @@ design:
 </div>
 -->
 {{% callout note %}}
-See all publications [here](./publication/).
+Browse the [complete publication catalogue](./publication/), including journal articles, preprints, and conference proceedings.
 {{% /callout %}}

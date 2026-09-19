@@ -5,6 +5,7 @@ tags:
 - Probability
 
 date: "2022-10-02T15:59:00Z"
+draft: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -13,22 +14,6 @@ image:
   caption: Buffon's needle
   focal_point: Smart
 
-#links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
-#url_code: ""
-#url_pdf: ""
-#url_slides: ""
-#url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
 ---
 
 ## Probability and Statistics
@@ -51,4 +36,4 @@ The course contents includes presentation of the following concepts (lecture and
 - N. Cufaro Petroni, Probability and Stochastic Processes for Physicists, UNITEXT for Physics, 978-3-030-48407-1, Springer, 2020
 - P. Billingsley, Probability and measure
 - O. Bratteli, D Robinson, Operator algebras and statistical mechjanics vol. I, II
-- Material provided by the lecturer. 
+- Material provided by the lecturer.

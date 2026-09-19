@@ -3,10 +3,10 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: GioSca website # Website name
-baseurl: "." # Website URL
+title: Giovanni Scala | Quantum Information
+baseurl: "https://giovanniscala.github.io/"
 canonifyURLs: false
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Giovanni Scala'
 
 ############################
 ## LANGUAGE
@@ -42,7 +42,7 @@ permalinks:
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
-disableAliases: true
+disableAliases: false
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]

@@ -6,25 +6,26 @@ title: Giovanni Scala
 superuser: true
 
 # Role/position/tagline
-role: Post-Doc
+role: Incoming Assistant Professor and SONATA 21 Principal Investigator (from November 2026)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: ICTQT - University of Gdansk
-  url: https://ictqt.ug.edu.pl/
+- name: Faculty of Physics, Astronomy and Informatics, Nicolaus Copernicus University in Toruń
+  url: https://www.fizyka.umk.pl/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include quantum foundations, quantum informaion, optics and communications.
+bio: Theoretical physicist connecting quantum foundations with secure communication, entanglement certification, and quantum technologies.
 
 # Interests to show in About widget
 interests:
-- Light-Matter QED
-- Quantum Optics
-- Machine Learning
-- Quantum Metrology
-- Entanglement Theory
-- Quantum foundations
-- Mathematical Physics
+- Quantum information and communication
+- Quantum key distribution and finite-size security
+- Entanglement detection and randomized measurements
+- Bell nonlocality, contextuality, and self-testing
+- Quantum error mitigation and protection
+- Quantum machine learning
+- Quantum optics and imaging
+- Mathematical physics and positive maps
 
 # Education to show in About widget
 education:
@@ -52,22 +53,22 @@ social:
   link: https://www.researchgate.net/profile/Giovanni-Scala-3
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=jyKCpEUAAAAJ
-- icon: publons 
-  icon_pack: ai
-  link: https://publons.com/researcher/4217321/giovanni-scala/  
+  link: https://scholar.google.com/citations?user=jyKCpEUAAAAJ
 - icon: orcid 
   icon_pack: ai
   link: https://orcid.org/0000-0003-2685-0946    
 - icon: arxiv 
   icon_pack: ai
-  link: http://arxiv.org/a/scala_g_1      
+  link: https://arxiv.org/a/scala_g_1
 - icon: github
   icon_pack: fab
   link: https://github.com/giovanniscala
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/giovanni-scala-864035171/
+- icon: twitter
+  icon_pack: fab
+  link: https://x.com/GioSca16
 # to other database and so on https://jpswalsh.github.io/academicons/
 
 # Link to a PDF of your resume/CV.
@@ -76,16 +77,20 @@ social:
 
 - icon: cv
   icon_pack: ai
-  link: ../media/cv_Giovanni_Scala.pdf
+  link: /uploads/Giovanni_Scala_CV.pdf
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "giovanni.scala@ug.edu.pl"
+email: "giovanni.scala@poliba.it"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Post-Doc in quantum information and quantum optics, currently developing genetic and machine learning algorithms for the optimization problems. Interested in the foundations of quantum theory such as Entanglement Theory, Bell's inequalities, and classical explainable models. I also studied metrology, quantum communication games, light-matter interaction in QED and second-order interferometry methods. 
+I am a theoretical physicist working at the interface of quantum information, quantum communication, quantum foundations, mathematical physics, and quantum optics. My research develops practical ways to certify and protect quantum resources under realistic constraints, including finite data, noise, loss, imperfect devices, and restricted measurement access.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "././uploads/resume_Giovanni_Scala.pdf" "download" >}}research resumé{{< /staticref >}}.
+Current themes include finite-size security in quantum key distribution, device-independent methods and self-testing, entanglement detection through randomized measurements, quantum error filtration, Bell nonlocality, and quantum machine learning. Earlier work spans positive maps and entanglement witnesses, light-matter interaction, and correlation plenoptic imaging.
+
+From November 2026, I will join Nicolaus Copernicus University in Toruń as an Assistant Professor and Principal Investigator of the NCN SONATA 21 project *Dynamical Resource for Multipartite Quantum Systems* (grant 2025/59/D/ST2/02708). The [SONATA 21 award is listed by the National Science Centre](https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/sonata21-lr.pdf).
+
+{{< icon name="download" pack="fas" >}} [Download my CV (updated September 2026)](/uploads/Giovanni_Scala_CV.pdf).
