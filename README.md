@@ -14,9 +14,14 @@ This branch contains the Hugo/Wowchemy authoring source for
 
 ```bash
 python3 scripts/generate_publications.py
-hugo --gc --minify
-python3 scripts/validate_site.py public
+site_build_dir="$(mktemp -d)"
+hugo --gc --minify --destination "$site_build_dir"
+python3 scripts/validate_site.py "$site_build_dir"
 ```
+
+A fresh destination is required because this historical source branch still
+contains an old tracked `public/` snapshot. That snapshot is not edited or used
+as the validation target.
 
 The publication generator is the canonical structured ledger for 24 journal
 articles, five active preprints, and three conference/proceedings records. It

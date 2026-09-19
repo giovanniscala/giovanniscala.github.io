@@ -34,7 +34,10 @@ jobs:
         run: git diff --exit-code -- content/publication
 
       - name: Build site
-        run: hugo --gc --minify --baseURL http://localhost:1313/
+        run: |
+          site_build_dir="$(mktemp -d)"
+          echo "SITE_BUILD_DIR=$site_build_dir" >> "$GITHUB_ENV"
+          hugo --gc --minify --destination "$site_build_dir" --baseURL http://localhost:1313/
 
       - name: Validate content and internal links
-        run: python3 scripts/validate_site.py public
+        run: python3 scripts/validate_site.py "$SITE_BUILD_DIR"
