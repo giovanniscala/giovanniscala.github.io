@@ -1,18 +1,9 @@
 ---
 title: Publications
-date: 2023-04-26
-type: widget-page
+summary: Peer-reviewed articles, active preprints, and conference proceedings.
+date: 2026-09-18
 cms_exclude: true
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
 view: 4
-
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
 ---
+
+This catalogue contains 24 peer-reviewed journal articles, five active preprints, and three conference or proceedings contributions. Use the publication-type filter to browse each category.
