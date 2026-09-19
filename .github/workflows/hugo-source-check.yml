@@ -1,0 +1,40 @@
+name: Validate Hugo source
+
+on:
+  pull_request:
+    branches: [website-source]
+  push:
+    branches:
+      - website-source
+      - 'update/**'
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: '1.17.13'
+          cache: false
+
+      - uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.83.1'
+          extended: true
+
+      - name: Regenerate publication catalogue
+        run: python3 scripts/generate_publications.py
+
+      - name: Verify generated publication source is committed
+        run: git diff --exit-code -- content/publication
+
+      - name: Build site
+        run: hugo --gc --minify --baseURL http://localhost:1313/
+
+      - name: Validate content and internal links
+        run: python3 scripts/validate_site.py public

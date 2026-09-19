@@ -1,8 +1,18 @@
-cd p# IDEs
+# IDEs
 .idea/
+.vscode/
+
+# Python caches
+__pycache__/
+*.py[cod]
 
 # Hugo
 /resources/
-public/
+/public/
+.hugo_build.lock
 jsconfig.json
 node_modules/
+
+# Local build and operating-system files
+.DS_Store
+Thumbs.db
