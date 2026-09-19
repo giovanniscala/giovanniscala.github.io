@@ -1,3 +1,19 @@
 # Netlify redirects
 # Automatically generated
 # Documentation: http://bit.ly/netlify-deployment
+/publication/2030-preprint/10-05-2023_arx/ /publication/2025/generalizing-choi-map-m3/
+/publication/2030-preprint/06_06_2023_prxq/ /publication/2023/genuinely-nonclassical-interference/
+/publication/2023/02_02_2023_ijqi/ /publication/2023/local-set-chsh-bell/
+/publication/2023/04_01_2023_entropy/ /publication/2023/fidelity-robustness-chsh-bell/
+/publication/2022/09_12_2022_prl/ /publication/2022/nonclassical-uncertainty-relations/
+/publication/2022/31_07_2022_arx/ /publication/2022/nonclassical-uncertainty-relations/
+/publication/2022/31_06_2022_epjp/ /publication/2022/correlation-plenoptic-imaging-snr/
+/publication/2022/01_08_2022_jpa/ /publication/2022/generalising-bell-inequalities/
+/publication/2022/01_06_2022_epjp/ /publication/2022/thermal-light-distance-sensitivity/
+/publication/2021/04_30_2021_pra/ /publication/2021/beyond-rabi-model/
+/publication/2021/04_11_2021_osid/ /publication/2021/correlation-tensor-case-study/
+/publication/2020/12_30_2020_njp/ /publication/2020/extended-quantum-systems-dispersive-media/
+/publication/2020/10_21_2020_jpa/ /publication/2020/enhanced-realignment-criterion/
+/publication/2020/01_22_2020_pra/ /publication/2020/multipartite-correlation-tensor/
+/publication/2019/05_07_2019_pra/ /publication/2019/correlation-plenoptic-imaging-chaotic-light/
+/publication/2019/05_07_2020_pra/ /publication/2019/correlation-plenoptic-imaging-chaotic-light/
