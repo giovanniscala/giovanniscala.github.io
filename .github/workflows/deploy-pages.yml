@@ -37,17 +37,20 @@ jobs:
         run: git diff --exit-code -- content/publication
 
       - name: Build production site
-        run: hugo --gc --minify --destination public --baseURL https://giovanniscala.github.io/
+        run: |
+          site_build_dir="$(mktemp -d)"
+          echo "SITE_BUILD_DIR=$site_build_dir" >> "$GITHUB_ENV"
+          hugo --gc --minify --destination "$site_build_dir" --baseURL https://giovanniscala.github.io/
 
       - name: Validate production site
-        run: python3 scripts/validate_site.py public
+        run: python3 scripts/validate_site.py "$SITE_BUILD_DIR"
 
       - name: Publish production branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: master
-          publish_dir: ./public
+          publish_dir: ${{ env.SITE_BUILD_DIR }}
           keep_files: false
           user_name: github-actions[bot]
           user_email: 41898282+github-actions[bot]@users.noreply.github.com
