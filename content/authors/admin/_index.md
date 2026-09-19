@@ -91,6 +91,6 @@ I am a theoretical physicist working at the interface of quantum information, qu
 
 Current themes include finite-size security in quantum key distribution, device-independent methods and self-testing, entanglement detection through randomized measurements, quantum error filtration, Bell nonlocality, and quantum machine learning. Earlier work spans positive maps and entanglement witnesses, light-matter interaction, and correlation plenoptic imaging.
 
-From November 2026, I will join Nicolaus Copernicus University in Toruń as an Assistant Professor and Principal Investigator of the NCN SONATA 21 project *Dynamical Resource for Multipartite Quantum Systems* (grant 2025/59/D/ST2/02708). The [SONATA 21 award is listed by the National Science Centre](https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/sonata21-lr.pdf).
+From November 2026, I will join Nicolaus Copernicus University in Toruń as an Assistant Professor and Principal Investigator of the NCN SONATA 21 project *Dynamical Resource for Multipartite Quantum Systems* (grant 2025/59/D/ST2/02708; November 2026–October 2029).
 
 {{< icon name="download" pack="fas" >}} [Download my CV (updated September 2026)](/uploads/Giovanni_Scala_CV.pdf).

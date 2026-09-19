@@ -15,7 +15,7 @@ experience:
     location: Toruń, Poland
     date_start: '2026-11-01'
     date_end: ''
-    description: 'Principal Investigator of the NCN SONATA 21 project *Dynamical Resource for Multipartite Quantum Systems* (2025/59/D/ST2/02708).'
+    description: 'Principal Investigator of the NCN SONATA 21 project *Dynamical Resource for Multipartite Quantum Systems* (2025/59/D/ST2/02708; November 2026–October 2029).'
 
   - title: Assistant Professor
     company: Politecnico di Bari and INFN, Bari Section
