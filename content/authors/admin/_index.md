@@ -6,7 +6,7 @@ title: Giovanni Scala
 superuser: true
 
 # Role/position/tagline
-role: Incoming Assistant Professor and SONATA 21 Principal Investigator (from November 2026)
+role: Assistant Professor and SONATA 21 Principal Investigator
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -81,7 +81,7 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "giovanni.scala@poliba.it"
+email: "giovanni.scala@umk.pl"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -91,6 +91,6 @@ I am a theoretical physicist working at the interface of quantum information, qu
 
 Current themes include finite-size security in quantum key distribution, device-independent methods and self-testing, entanglement detection through randomized measurements, quantum error filtration, Bell nonlocality, and quantum machine learning. Earlier work spans positive maps and entanglement witnesses, light-matter interaction, and correlation plenoptic imaging.
 
-From November 2026, I will join Nicolaus Copernicus University in Toruń as an Assistant Professor and Principal Investigator of the NCN SONATA 21 project *Dynamical Resource for Multipartite Quantum Systems* (grant 2025/59/D/ST2/02708; November 2026–October 2029).
+Since November 2026, I have been based at the Institute of Physics, Nicolaus Copernicus University in Toruń, as an Assistant Professor and Principal Investigator of the NCN SONATA 21 project *Dynamical Resource for Multipartite Quantum Systems* (grant 2025/59/D/ST2/02708; November 2026–October 2029).
 
 {{< icon name="download" pack="fas" >}} [Download my CV (updated September 2026)](/uploads/Giovanni_Scala_CV.pdf).

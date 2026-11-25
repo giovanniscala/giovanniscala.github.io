@@ -24,7 +24,7 @@ contains an old tracked `public/` snapshot. That snapshot is not edited or used
 as the validation target.
 
 The publication generator is the canonical structured ledger for 24 journal
-articles, five active preprints, and three conference/proceedings records. It
+articles, seven active preprints, and three conference/proceedings records. It
 also generates matching BibTeX files and preserves attached author-owned
 posters and slides.
 
@@ -33,3 +33,26 @@ posters and slides.
 Changes are reviewed on a branch targeting `website-source`. Deployment is a
 separate, explicit step that generates the site from a validated source commit
 and updates the production branch.
+
+## Windows local development
+
+Use the pinned legacy Hugo Extended executable for this branch, not the newer
+Hugo used by the Hugo Blox experiment. Download the Windows 64-bit **Extended**
+release from [Hugo v0.83.1](https://github.com/gohugoio/hugo/releases/tag/v0.83.1)
+and extract it to a dedicated directory. Install Go 1.17.13 separately if
+needed; do not replace your current Hugo or Go installation globally.
+
+From a fresh checkout of this branch, in PowerShell:
+
+```powershell
+& "C:\Tools\hugo-0.83.1\hugo.exe" version
+go version
+& "C:\Tools\hugo-0.83.1\hugo.exe" server --disableFastRender
+```
+
+Adjust the executable path to the actual extracted location. For the exact
+validated production environment, see the GitHub Actions workflow.
+Tailwind CSS, npm global launchers and Node.js are not required for this branch.
+
+See [the modern migration plan](docs/modern-hugo-migration.md) before starting
+a Hugo Blox upgrade.

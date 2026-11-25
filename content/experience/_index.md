@@ -6,7 +6,7 @@ type: page
 
 ## Academic appointments
 
-- **Incoming Assistant Professor and Principal Investigator**, Nicolaus Copernicus University in Toruń (from November 2026).
+- **Assistant Professor and Principal Investigator**, Nicolaus Copernicus University in Toruń (from November 2026).
 - **Assistant Professor**, Politecnico di Bari and INFN, Bari Section (August 2023–July 2026).
 - **Postdoctoral Researcher**, International Centre for Theory of Quantum Technologies, University of Gdańsk (April 2022–July 2023).
 - **Postdoctoral Researcher**, University of Warsaw (July 2021–March 2022).

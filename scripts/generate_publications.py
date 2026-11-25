@@ -223,6 +223,14 @@ PUBLICATIONS = [
           key="Cavalcanti2023EntanglementWitnesses", title="Information theoretical perspective on the method of Entanglement Witnesses",
           authors=["Paulo J. Cavalcanti", "Giovanni Scala", "Antonio Mandarino", "Cosmo Lupo"], arxiv="2308.07744",
           tags=["Entanglement witnesses", "Information theory", "Entanglement"]),
+    entry(kind="preprint", year=2026, date="2026-11-09", slug="third-order-distributed-randomized-measurements",
+          key="Scala2026DistributedThirdOrder", title="Third-Order Quantum Information from Distributed Randomized Measurements",
+          authors=["Giovanni Scala","Corrado Cosimo Mattiacci","Gniewomir Sarbicki"], arxiv="2611.13099",
+          tags=["Randomized measurements","Local invariants","Multipartite quantum information"]),
+    entry(kind="preprint", year=2026, date="2026-09-22", slug="coherence-enhanced-spatial-quantum-thermometry",
+          key="Ullah2026SpatialThermometry", title="Coherence-Enhanced Spatial Quantum Thermometry",
+          authors=["Asghar Ullah","Giovanni Scala","Luis L. Sánchez-Soto","Özgür E. Müstecaplıoğlu"], arxiv="2609.26936",
+          tags=["Quantum thermometry","Quantum metrology","Quantum coherence"]),
 ]
 
 
@@ -311,7 +319,7 @@ def bibtex(item: dict) -> str:
 
 def main() -> None:
     counts = Counter(item["kind"] for item in PUBLICATIONS)
-    assert counts == Counter({"journal": 24, "conference": 3, "preprint": 5}), counts
+    assert counts == Counter({"journal": 24, "conference": 3, "preprint": 7}), counts
     assert all(item.get("arxiv") != "2609.08635" for item in PUBLICATIONS)
     assert len({item["slug"] for item in PUBLICATIONS}) == len(PUBLICATIONS)
 
@@ -343,7 +351,7 @@ def main() -> None:
             "cms_exclude: true\n"
             "view: 4\n"
             "---\n\n"
-            "This catalogue contains 24 peer-reviewed journal articles, five active preprints, and three conference or proceedings contributions. "
+            "This catalogue contains 24 peer-reviewed journal articles, seven active preprints, and three conference or proceedings contributions. "
             "Use the publication-type filter to browse each category.\n",
             encoding="utf-8",
         )

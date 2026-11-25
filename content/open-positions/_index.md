@@ -1,17 +1,29 @@
 ---
 title: Open Positions
-summary: Planned PhD and postdoctoral opportunities in the NCN SONATA 21 DyResQ project.
+summary: Official postdoctoral and PhD scholarship calls in the NCN SONATA 21 DyResQ project.
 type: page
 ---
 
-The NCN SONATA 21 project **Dynamical Resource for Multipartite Quantum Systems (DyResQ)** will investigate dynamical multipartite entanglement, open quantum systems, algebraic invariants, and temporal quantum correlations at Nicolaus Copernicus University in Toruń from November 2026 to October 2029.
+The NCN SONATA 21 project **Dynamical Resource for Multipartite Quantum Systems (DyResQ)** investigates the evolution and certification of multipartite entanglement in open quantum systems at Nicolaus Copernicus University in Toruń (November 2026–October 2029).
 
-## PhD position
+The official calls were published in November 2026. Both have an application deadline of **20 December 2026, 23:59 (Poland time)** and an anticipated start on 1 February 2027.
 
-A PhD position is planned for work on multipartite quantum resources, open-system dynamics, and quantum-information methods.
+## Postdoctoral researcher
 
-## Postdoctoral position
+- Full-time research position, initially for 12 months, with possible extension up to 36 months.
+- Research: algebraic approaches to entanglement dynamics, open quantum systems, temporal witnesses and computational methods.
+- Remuneration: PLN 210,000 per year, including employer costs (not take-home salary).
 
-A postdoctoral position is planned for a researcher in theoretical quantum information, entanglement, or mathematical methods for quantum dynamics.
+[Read the official NCN call, including eligibility and application instructions](https://www2.ncn.gov.pl/baza-ofert/?akcja=wyswietl&id=234764).
 
-The official calls, deadlines, eligibility requirements, employment conditions, and application links have not yet been announced. This page will be updated when the positions formally open. In the meantime, prospective applicants may [contact Giovanni Scala privately](mailto:giovanni.scala@poliba.it) for further information or send a concise expression of interest.
+## PhD student scholarship
+
+- Research on multipartite entanglement dynamics, noise models, numerical simulations and temporal witnesses.
+- Scholarship: PLN 3,000 per month.
+- Announced scholarship period: 1 February 2027 to 31 January 2028.
+
+[Read the official NCN call, including eligibility and application instructions](https://www2.ncn.gov.pl/baza-ofert/?akcja=wyswietl&id=234765).
+
+For scientific enquiries, contact [Giovanni Scala](mailto:giovanni.scala@umk.pl). Please use the respective official announcement for the required documents, application channel, eligibility rules and any changes to the recruitment schedule.
+
+Information checked on 25 November 2026.

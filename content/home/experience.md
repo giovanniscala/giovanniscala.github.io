@@ -9,7 +9,7 @@ subtitle: ''
 date_format: Jan 2006
 
 experience:
-  - title: Incoming Assistant Professor and Principal Investigator
+  - title: Assistant Professor and Principal Investigator
     company: Nicolaus Copernicus University in Toruń
     company_url: 'https://www.fizyka.umk.pl/en/'
     location: Toruń, Poland

@@ -6,4 +6,4 @@ cms_exclude: true
 view: 4
 ---
 
-This catalogue contains 24 peer-reviewed journal articles, five active preprints, and three conference or proceedings contributions. Use the publication-type filter to browse each category.
+This catalogue contains 24 peer-reviewed journal articles, seven active preprints, and three conference or proceedings contributions. Use the publication-type filter to browse each category.

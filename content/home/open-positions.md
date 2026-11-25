@@ -11,11 +11,11 @@ design:
   columns: '1'
 ---
 
-Two positions are planned within the NCN SONATA 21 project *Dynamical Resource for Multipartite Quantum Systems*:
+The NCN SONATA 21 DyResQ project has announced two opportunities, with an application deadline of **20 December 2026**:
 
-- **PhD position** — multipartite quantum resources, open-system dynamics, and quantum-information methods.
-- **Postdoctoral position** — theoretical quantum information, entanglement, and mathematical methods for quantum dynamics.
+- **Postdoctoral researcher** — [official NCN call](https://www2.ncn.gov.pl/baza-ofert/?akcja=wyswietl&id=234764).
+- **PhD student scholarship** — [official NCN call](https://www2.ncn.gov.pl/baza-ofert/?akcja=wyswietl&id=234765).
 
-The official calls, deadlines, requirements, and application links have not yet been announced. This section will be updated when the positions formally open. In the meantime, prospective applicants may [contact Giovanni Scala privately](mailto:giovanni.scala@poliba.it) for further information or send a concise expression of interest.
+Both calls specify an anticipated start on 1 February 2027.
 
-[Open positions page →](./open-positions/)
+[Details and application links →](./open-positions/)
