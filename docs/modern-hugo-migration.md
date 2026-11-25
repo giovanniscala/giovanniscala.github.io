@@ -51,9 +51,9 @@ Commit authoring files only, not node_modules, the build cache, or output.
 Run a preview build in GitHub Actions on the migration branch.
 
 Only after the replacement passes review, configure GitHub Pages to use
-the validated build from the approved source branch. The current legacy
-workflow uses a manual/explicit deployment policy; do not change the
-production branch or Pages settings while the migration is unverified.
+the validated build from the approved source branch. The legacy workflow deploys after validated builds on website-source. Do not
+merge unverified migration work or change the production branch or Pages
+settings while the migration is unverified.
 
 ## Outstanding inputs
 

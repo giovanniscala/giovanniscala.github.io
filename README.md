@@ -30,9 +30,10 @@ posters and slides.
 
 ## Publishing policy
 
-Changes are reviewed on a branch targeting `website-source`. Deployment is a
-separate, explicit step that generates the site from a validated source commit
-and updates the production branch.
+Changes are reviewed on a branch targeting `website-source`. Merging into
+`website-source` triggers the production deployment workflow, which regenerates
+and validates the site before updating `master`. Manual runs are also limited
+to `website-source`. Do not edit `master` directly.
 
 ## Windows local development
 

@@ -17,6 +17,7 @@ EXPECTED = Counter({"2": 24, "3": 7, "1": 3})
 FORBIDDEN_VISIBLE = (
     "2609.08635",
     "giovanni.scala@ug.edu.pl",
+    "Incoming Assistant Professor",
     "Example Project",
     "Example Talk",
     "georgecushen",
@@ -107,6 +108,11 @@ def built_site_checks(site: Path, errors: list[str]) -> None:
     for phrase in FORBIDDEN_VISIBLE:
         if phrase.casefold() in folded:
             errors.append(f"forbidden visible string found: {phrase}")
+
+    homepage = (site / "index.html").read_text(encoding="utf-8", errors="ignore")
+    for expected in ("Assistant Professor and SONATA 21 Principal Investigator", "Grudziądzka 5", "87-100", "giovanni.scala@umk.pl"):
+        if expected not in homepage:
+            errors.append(f"homepage missing current profile/contact information: {expected}")
 
     required = (
         site / "publication/index.html",
