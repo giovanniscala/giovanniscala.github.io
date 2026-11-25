@@ -1,29 +1,31 @@
 ---
 title: Open Positions
-summary: Official postdoctoral and PhD scholarship calls in the NCN SONATA 21 DyResQ project.
+summary: Postdoctoral researcher and PhD research scholarship in the NCN SONATA 21 DyResQ project.
 type: page
 ---
 
-The NCN SONATA 21 project **Dynamical Resource for Multipartite Quantum Systems (DyResQ)** investigates the evolution and certification of multipartite entanglement in open quantum systems at Nicolaus Copernicus University in Toruń (November 2026–October 2029).
-
-The official calls were published in November 2026. Both have an application deadline of **20 December 2026, 23:59 (Poland time)** and an anticipated start on 1 February 2027.
+My NCN SONATA 21 project, *Dynamical Resources of Multipartite Quantum Systems* (DyResQ), asks how long entanglement survives when a quantum system interacts with its environment. We use theory and numerical simulations to study how noise affects entanglement shared across several particles and how measurements at different times can reveal it.
 
 ## Postdoctoral researcher
 
-- Full-time research position, initially for 12 months, with possible extension up to 36 months.
-- Research: algebraic approaches to entanglement dynamics, open quantum systems, temporal witnesses and computational methods.
-- Remuneration: PLN 210,000 per year, including employer costs (not take-home salary).
+A full-time position, **210,000 PLN/year gross salary**, initially for 12 months, with the possibility of extension to 36 months in total. The postdoc will develop models of noisy quantum dynamics and new ways to detect entanglement.
 
-[Read the official NCN call, including eligibility and application instructions](https://www2.ncn.gov.pl/baza-ofert/?akcja=wyswietl&id=234764).
+- [University announcement](https://www.umk.pl/en/jobs/?task=offer&action=one&id=5014)
+- [EURAXESS](https://www.euraxess.pl/jobs/481916)
 
-## PhD student scholarship
+## PhD research scholarship
 
-- Research on multipartite entanglement dynamics, noise models, numerical simulations and temporal witnesses.
-- Scholarship: PLN 3,000 per month.
-- Announced scholarship period: 1 February 2027 to 31 January 2028.
+Students already enrolled in a doctoral school can apply for a supplementary scholarship of **PLN 3,000 per month for 12 months** to collaborate on DyResQ alongside their doctoral studies. The scholarship holder will simulate open quantum systems and compare methods for detecting when entanglement decays or revives.
 
-[Read the official NCN call, including eligibility and application instructions](https://www2.ncn.gov.pl/baza-ofert/?akcja=wyswietl&id=234765).
+- [Full PhD announcement in English (PDF)](https://www.fizyka.umk.pl/panel/wp-content/uploads/PhD-Student-%E2%80%93-scholarship.pdf)
+- [National Science Centre announcement](https://www2.ncn.gov.pl/baza-ofert/?akcja=wyswietl&id=234765)
+- [UMK faculty listing (offer SONATA21_PhD)](https://www.fizyka.umk.pl/student/praca-dla-studentow-i-doktorantow/)
 
-For scientific enquiries, contact [Giovanni Scala](mailto:giovanni.scala@umk.pl). Please use the respective official announcement for the required documents, application channel, eligibility rules and any changes to the recruitment schedule.
+## Application information
 
-Information checked on 25 November 2026.
+**Deadline:** 20 December 2026.  
+**Starting date:** 1 February 2027.
+
+Neither position requires a letter of recommendation. Applicants for the PhD scholarship must have their supervisor’s agreement to participate in the project and satisfy Poland’s Higher Education and Science Act.
+
+I’d be happy to hear from anyone who has questions about the research. [Contact me by email](mailto:giovanni.scala@umk.pl).
