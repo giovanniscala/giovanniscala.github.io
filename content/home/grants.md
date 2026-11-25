@@ -13,7 +13,7 @@ design:
 
 **Principal-investigator grant**
 
-- **NCN SONATA 21 (November 2026–October 2029)** — Principal Investigator, *Dynamical Resource for Multipartite Quantum Systems* (DyResQ), grant 2025/59/D/ST2/02708, hosted at Nicolaus Copernicus University in Toruń.
+- **NCN SONATA 21 (November 2026–October 2029)** — Principal Investigator, *Dynamical Resources of Multipartite Quantum Systems* (DyResQ), grant 2025/59/D/ST2/02708, hosted at Nicolaus Copernicus University in Toruń.
 
 **Project membership**
 

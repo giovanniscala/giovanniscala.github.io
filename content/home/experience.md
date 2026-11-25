@@ -9,13 +9,13 @@ subtitle: ''
 date_format: Jan 2006
 
 experience:
-  - title: Incoming Assistant Professor and Principal Investigator
+  - title: Assistant Professor and Principal Investigator
     company: Nicolaus Copernicus University in Toruń
     company_url: 'https://www.fizyka.umk.pl/en/'
     location: Toruń, Poland
     date_start: '2026-11-01'
     date_end: ''
-    description: 'Principal Investigator of the NCN SONATA 21 project *Dynamical Resource for Multipartite Quantum Systems* (2025/59/D/ST2/02708; November 2026–October 2029).'
+    description: 'Principal Investigator of the NCN SONATA 21 project *Dynamical Resources of Multipartite Quantum Systems* (2025/59/D/ST2/02708; November 2026–October 2029).'
 
   - title: Assistant Professor
     company: Politecnico di Bari and INFN, Bari Section

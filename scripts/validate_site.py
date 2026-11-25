@@ -13,10 +13,11 @@ from urllib.parse import unquote, urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 PUBLICATIONS = ROOT / "content" / "publication"
-EXPECTED = Counter({"2": 24, "3": 5, "1": 3})
+EXPECTED = Counter({"2": 24, "3": 7, "1": 3})
 FORBIDDEN_VISIBLE = (
     "2609.08635",
     "giovanni.scala@ug.edu.pl",
+    "Incoming Assistant Professor",
     "Example Project",
     "Example Talk",
     "georgecushen",
@@ -65,8 +66,8 @@ def publication_checks(errors: list[str]) -> None:
         keys.add(page.parent.name)
     if counts != EXPECTED:
         errors.append(f"publication counts are {dict(counts)}, expected {dict(EXPECTED)}")
-    if len(pages) != 32:
-        errors.append(f"found {len(pages)} publication pages, expected 32")
+    if len(pages) != 34:
+        errors.append(f"found {len(pages)} publication pages, expected 34")
 
     all_source = "\n".join(p.read_text(encoding="utf-8", errors="ignore") for p in PUBLICATIONS.rglob("*.md"))
     if "2609.08635" in all_source:
@@ -107,6 +108,11 @@ def built_site_checks(site: Path, errors: list[str]) -> None:
     for phrase in FORBIDDEN_VISIBLE:
         if phrase.casefold() in folded:
             errors.append(f"forbidden visible string found: {phrase}")
+
+    homepage = (site / "index.html").read_text(encoding="utf-8", errors="ignore")
+    for expected in ("Assistant Professor and SONATA 21 Principal Investigator", "Grudziądzka 5", "87-100", "giovanni.scala@umk.pl"):
+        if expected not in homepage:
+            errors.append(f"homepage missing current profile/contact information: {expected}")
 
     required = (
         site / "publication/index.html",
@@ -150,7 +156,7 @@ def main() -> None:
     publication_checks(errors)
     built_site_checks(site, errors)
     fail(errors)
-    print("Validated 32 publication records, required pages, stale-content rules, and internal links.")
+    print("Validated 34 publication records, required pages, stale-content rules, and internal links.")
 
 
 if __name__ == "__main__":

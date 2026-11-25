@@ -20,15 +20,15 @@ twitter: 'GioSca16'
 
 # Contact (edit or remove options as required)
 
-email: giovanni.scala@poliba.it
+email: giovanni.scala@umk.pl
 #phone: 888 888 88 88
 address:
-  street: ''
-  city: ''
+  street: 'ul. Grudziądzka 5'
+  city: 'Toruń'
   region: ''
-  postcode: ''
-  country: ''
-  country_code: ''
+  postcode: '87-100'
+  country: 'Poland'
+  country_code: 'PL'
 #coordinates:
 #  latitude: '37.4275'
 #  longitude: '-122.1697'
