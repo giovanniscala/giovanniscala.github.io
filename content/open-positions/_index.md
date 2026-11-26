@@ -26,6 +26,6 @@ Students already enrolled in a doctoral school can apply for a supplementary sch
 **Deadline:** 20 December 2026.  
 **Starting date:** 1 February 2027.
 
-Neither position requires a letter of recommendation. Applicants for the PhD scholarship must have their supervisor’s agreement to participate in the project and satisfy Poland’s Higher Education and Science Act.
+Neither position requires a letter of recommendation. Applicants for the PhD scholarship must have their supervisor’s agreement to participate in the project and satisfy Poland’s Higher Education and Science Act, which means that your university must establish an agreement with Nicolaus Copernicus University.
 
 I’d be happy to hear from anyone who has questions about the research. [Contact me by email](mailto:giovanni.scala@umk.pl).
